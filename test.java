@@ -1,14 +1,16 @@
-  
-public class Test {
-    public static void main(Stings args[])
-
-    {
-
-      String name= "Andrea";
-      char inizialenome = 'A';
-
-    int anni = 22;
-    int natoNel = 1997;
-    duble altezza= 167.59;
-    }
-  }
+public class Main {
+  public static void main(String[] args) {
+   
+    int x = 40;
+    int y = 10;
+      if( x>y){
+       System.out.println("è sera");
+      }
+      else{
+       System.out.println("è giorno");
+      }
+      }
+      }
+      
+      
+      
